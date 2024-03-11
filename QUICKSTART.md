@@ -41,9 +41,10 @@ This project supports Linux (Debian based), Mac, and Windows Subsystem for Linux
     Initially you will get instructions for installing flutter, chrome and setting up your github access token like the following image:
 
     > Note: for advanced users. The github access token is only needed for the ./run arena enter command so the system can automatically create a PR
+   
+   ![Setup the Project](docs/content/imgs/quickstart/005_setup_0.png)
 
-    
-    ![Setup the Project](docs/content/imgs/quickstart/005_setup.png)
+   ![Setup the Project](docs/content/imgs/quickstart/005_setup.png)
 
 ### For Windows Users
 
